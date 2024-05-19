@@ -32,7 +32,7 @@ const Footer = () => {
                 </form>
               </div>
               <div>
-                <Image src="/images/RIDO.svg" alt="RIDO Logo" />
+                <Image src="/images/RIDO.svg" alt="RIDO Logo" width={40} height={40}/>
               </div>
             </div>
           </div>
