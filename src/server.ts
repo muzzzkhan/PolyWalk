@@ -13,6 +13,8 @@ import { PayloadRequest } from 'payload/types'
 import { parse } from 'url'
 
 const app = express()
+const cors = require("cors");
+app.use(cors());
 const PORT = Number(process.env.PORT) || 3000
 
 const createContext = ({
