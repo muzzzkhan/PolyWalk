@@ -73,7 +73,7 @@ export default function Home() {
               <h2 className='text-[20px] font-extrabold leading-7 tracking-[5px]'>ABOUT US</h2>
             </div>
             <div className="bottom">
-              <p className='text-[18px] font-normal leading-[25px]'>Our meta-wardrobe can analyze a customer's <span className='font-medium'>body type, size, and proportions to provide personalized clothing</span> recommendations, leading to increased customer engagement and sales.</p>
+              <p className='text-[18px] font-normal leading-[25px]'>Our meta-wardrobe can analyze a customer&apos;s <span className='font-medium'>body type, size, and proportions to provide personalized clothing</span> recommendations, leading to increased customer engagement and sales.</p>
             </div>
           </div>
           <div className="right ml-16">
@@ -102,7 +102,7 @@ export default function Home() {
             </div>
           </div>
           <div className="right ml-16  flex flex-col justify-between items-start">
-            <h2 className='text-[18px] font-normal leading-[25px] text-[#BDBDBD]'>Our meta-wardrobe can analyze a customer's <span className='text-white'>body type, size, and proportions to provide personalized clothing</span> recommendations, leading to increased customer engagement and sales.</h2>
+            <h2 className='text-[18px] font-normal leading-[25px] text-[#BDBDBD]'>Our meta-wardrobe can analyze a customer&apos;s <span className='text-white'>body type, size, and proportions to provide personalized clothing</span> recommendations, leading to increased customer engagement and sales.</h2>
             <Link href="/products" className='border-[2px] border-solid border-white text-[14px] font-bold leading-[22px] py-4 px-10 rounded-full inline-block transition-all duration-300 hover:shadow-[0px_0px_10px_rgba(255,255,255,1)]'>Explore</Link>
           </div>
         </div>
